@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Vegan burger recipe app: https://github.com/SafiaOmar/Vegan-Burger-Goals
-- 🌱 I’m currently learning Astro & AWS
-- 👯 I’m looking to collaborate on any vegan/Healthy living projects or Non-profits that help young girls get in to tech.
+- 🔭 I’m currently working on a Kubernetes website (https://github.com/SafiaOmar/KubeHuddle2023)
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on any  Non-profits that help youth get in to tech.
 - 💬 Ask me anything about the Warriors or Eagles.
 - 📫 How to reach me: ambitiousoutlook@gmail.com
 - ⚡ Fun fact: Basketball was originally played with a soccer ball and peach baskets
